@@ -15,9 +15,9 @@ To satisfy the **Track 5: Open Source for Bharat** parameters, this project is b
 * **Contribution Framework:** Fully integrated with an active `CONTRIBUTING.md` instruction manual to welcome external developer branches.
 
 ## 👥 Core Project Team
-* **Member 1 (Lead):** [DIBAKAR DAS] - (@[dibakar704])
-* **Member 2:** [TANMAY DAGA] - (@[tanmay-daga ])
-* **Member 3:** [SURYANSH SINGH] - (@[rsuryansh9026-cell])
+* **Member 1:** [Dibakar Das] - (@[dibakar704])
+* **Member 2:** [Tanmay Daga] - (@[tanmay-daga ])
+* **Member 3:** [Suryansh Singh] - (@[rsuryansh9026-cell])
 
 ---
 *Built with passion for Devf8rge Hacktoberfest Hack Day 2026.*
